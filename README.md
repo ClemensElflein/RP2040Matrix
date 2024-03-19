@@ -1,6 +1,6 @@
 # HUB75 LED Matrix Driver for Raspberry Pi Pico (PlatformIO / Arduino)
 
-This project is aimed at driving HUB75 LED Matrix panels using a Raspberry Pi Pico (RP2040 microcontroller) using PlatformIO and Arduino. It provides a simple example for drawing to an LED matrix using the Adafruit GFX library. I have only tested this code with a 64x64 matrix, but I don't see why it shouldn't work with 128x128. The project is based on the work of **pitschu/RP2040matrix-v2** and **Bodmer/Adafruit-GFX-Library**.
+This project is aimed at driving HUB75 LED Matrix panels using a Raspberry Pi Pico (RP2040 microcontroller) using PlatformIO and Arduino. It provides a simple example for drawing to an LED matrix using the Adafruit GFX library. I have only tested this code with a 64x64 matrix, but I don't see why it shouldn't work with 128x128. The project is based on the work of **[pitschu/RP2040matrix-v2](https://github.com/pitschu/RP2040matrix-v2)** and **[Bodmer/Adafruit-GFX-Library](https://github.com/Bodmer/Adafruit-GFX-Library)**.
 
 ## Features
 
@@ -23,8 +23,8 @@ To get started with this project, follow these steps:
 
 This project builds upon the work of the following contributors:
 
-- **pitschu/RP2040matrix-v2**: For providing the initial groundwork and hardware interfacing for driving HUB75 LED Matrix panels with Raspberry Pi Pico's PIO.
-- **Bodmer/Adafruit-GFX-Library**: For the core graphics library, enabling compatibility with Adafruit's GFX library and enhancing the display manipulation capabilities of the project.
+- **[pitschu/RP2040matrix-v2](https://github.com/pitschu/RP2040matrix-v2)**: For providing the initial groundwork and hardware interfacing for driving HUB75 LED Matrix panels with Raspberry Pi Pico's PIO.
+- **[Bodmer/Adafruit-GFX-Library](https://github.com/Bodmer/Adafruit-GFX-Library)**: For the core graphics library, enabling compatibility with Adafruit's GFX library and enhancing the display manipulation capabilities of the project.
 
 ## Support and Contributions
 
